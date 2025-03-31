@@ -1,0 +1,11 @@
+../Core/Src/menu.c:8:6:InitMenu	1
+../Core/Src/menu.c:27:6:printChildren	7
+../Core/Src/menu.c:58:6:addLeaf	2
+../Core/Src/menu.c:70:5:addNode	4
+../Core/Src/menu.c:87:6:getChildren	2
+../Core/Src/menu.c:91:6:PrintMenu	3
+../Core/Src/menu.c:104:6:OpenMenu	2
+../Core/Src/menu.c:118:6:CloseMenu	2
+../Core/Src/menu.c:126:6:executeLeafFunction	2
+../Core/Src/menu.c:131:6:exampleFunction	1
+../Core/Src/menu.c:139:9:isLeaf	2
